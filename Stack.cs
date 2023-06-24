@@ -10,8 +10,6 @@ namespace StackAndQueueUsingLL
     {
         Node<T> top;
 
-
-
         public void Push(T data)
         {
             Node<T> newNode = new Node<T>(data);
@@ -89,7 +87,7 @@ namespace StackAndQueueUsingLL
 
             while (temp != null) 
             {
-                Console.WriteLine(temp.data);
+                Console.Write(temp.data + "=>");
                temp=temp.next;
             }
             Console.WriteLine();

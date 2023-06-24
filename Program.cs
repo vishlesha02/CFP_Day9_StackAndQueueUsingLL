@@ -33,7 +33,38 @@ namespace StackAndQueueUsingLL
             
             //Checks the Size of Stack
             stack.Size();
-            
+
+           // =================================================
+
+            Queue<int> queue = new Queue<int>();
+
+
+            //Adds an Element 
+            Console.WriteLine("The enqueued elements in Queue are : ");
+
+            queue.Enqueue(1);
+            queue.Enqueue(2);
+            queue.Enqueue(3);
+            queue.Enqueue(4);
+            queue.Display();
+
+
+            //Removes an Element
+          
+            queue.Dequeue();
+            queue.Display();
+
+
+            //Returns front most Element
+            queue.Peek();
+
+
+            //Checks if Queue is Empty
+            queue.IsEmpty();
+
+            //Checks the Size of Queue
+            queue.Size();
+
         }
     }
 }
