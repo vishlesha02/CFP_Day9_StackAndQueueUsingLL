@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\bin\Debug\net6.0\StackAndQueueUsingLL.exe
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\bin\Debug\net6.0\StackAndQueueUsingLL.deps.json
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\bin\Debug\net6.0\StackAndQueueUsingLL.runtimeconfig.json
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\bin\Debug\net6.0\StackAndQueueUsingLL.dll
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\bin\Debug\net6.0\StackAndQueueUsingLL.pdb
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.dll
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\refint\StackAndQueueUsingLL.dll
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.pdb
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\StackAndQueueUsingLL.genruntimeconfig.cache
+C:\Users\DELL\source\repos\StackAndQueueUsingLL\StackAndQueueUsingLL\obj\Debug\net6.0\ref\StackAndQueueUsingLL.dll
